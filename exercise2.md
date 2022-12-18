@@ -14,3 +14,4 @@ Una vez situado en el editor, se nos muestra por consola el siguiente código:
 
 **Encontrándonos en esta parte del diagrama**
 
+![Alt text](diagrama1.jpg)
