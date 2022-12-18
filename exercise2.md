@@ -15,3 +15,21 @@ Una vez situado en el editor, se nos muestra por consola el siguiente código:
 **Encontrándonos en esta parte del diagrama**
 
 ![Alt text](diagrama1.jpg)
+
+LLegados a este punto, deberemos crear una nueva rama para la rama principal master, para ello, y tal como nos indica el codigo, escribo en linea de comandos la instucción **git branch [nombre]**
+
+![Alt text](creandoBugFix.jpg)
+
+Vemos como la interfaz ha creado nuestra rama primeraRa
+
+![Alt text](diagramaBugFix.jpg)
+
+Continuamos el ejercicio haciendo cambiandonos a la rama creada mediante **git checkout primeraRa**
+
+![Alt text](cambioABugFix.jpg)
+
+Y con este ultimo comando logramos completar el ejercicio al cambiarnos exitosamente a la rama creada **"bugFix"**
+
+![Alt text](diagramaCambioABugFix.jpg)
+
+
