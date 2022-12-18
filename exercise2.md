@@ -20,7 +20,7 @@ LLegados a este punto, deberemos crear una nueva rama para la rama principal mas
 
 ![Alt text](creandoBugFix.jpg)
 
-Vemos como la interfaz ha creado nuestra rama primeraRa
+Vemos como la interfaz ha creado nuestra rama bugFix
 
 ![Alt text](diagramaBugFix.jpg)
 
